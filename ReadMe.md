@@ -10,7 +10,9 @@
 
 - Controls & Auto-Save: One of the key features of this project is the ability to preview the suggested changes before making any modifications. This ensures that developers have full control over the codebase and can selectively apply the suggested improvements according to their preferences. Once the changes are accepted, the GPT Automatic Code Reviewer automatically saves the modified code, simplifying the process of integrating the suggested improvements into the codebase.
 
+---
+
 ## Setup:
 
-1.
-2.
+1. install OpenAI: `pip install openai`
+2. install the Python package called python-dotenv: `pip install python_dotenv`
