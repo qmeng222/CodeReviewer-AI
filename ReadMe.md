@@ -16,3 +16,4 @@
 
 1. install OpenAI: `pip install openai`
 2. install the Python package called python-dotenv: `pip install python_dotenv`
+3. run the code reviewer for given files: `python reviewer.py tree.py` or `python reviewer.py gradient.py`
