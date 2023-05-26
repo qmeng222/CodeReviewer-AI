@@ -10,15 +10,11 @@
 
 - Controls & Auto-Save: One of the key features of this project is the ability to preview the suggested changes before making any modifications. This ensures that developers have full control over the codebase and can selectively apply the suggested improvements according to their preferences or communicate back directly to the GPT Code Reviewr. Once the changes are accepted, the GPT Automatic Code Reviewer automatically saves the modified code, simplifying the process of integrating the suggested improvements into the codebase.
 
----
-
 ## Setup:
 
 1. Install OpenAI: `pip install openai`
 2. Install the Python package called python-dotenv: `pip install python_dotenv`
 3. Install the tenacity package: `pip install tenacity`
-
----
 
 ## Run:
 
